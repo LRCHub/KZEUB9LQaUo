@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "らしさ (Live)",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-01T09:59:55.324741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "らしさ",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_らしさ_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "らしさ - Rashisa",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/02_らしさ_-_Rashisa_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "らしさ",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/03_らしさ_Official髭男dism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "らしさ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_らしさ_SUPER_BEAVER.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "らしさ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_02_らしさ_SUPER_BEAVER.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "らしさ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_03_らしさ_SUPER_BEAVER.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "らしさ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_04_らしさ_SUPER_BEAVER.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "らしさ らしく",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_05_らしさ_らしく_SUPER_BEAVER.txt"
+    }
+  ]
+}
